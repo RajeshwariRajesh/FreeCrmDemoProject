@@ -1,0 +1,2 @@
+cd C:\Users\D5490-102812G\eclipse-workspace\FrameCRMDemo
+mv clean install

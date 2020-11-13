@@ -1,0 +1,6 @@
+com\qa\page\ContactsPage.class
+com\qa\page\Loginpage.class
+Test.class
+com\qa\util\TestUtil.class
+com\qa\page\HomePage.class
+com\qa\base\TestBase.class
